@@ -1,3 +1,6 @@
+Disclaimer
+Please remove previous installation of instant client before proceed. also remove oci8 related dll from php extension directory.
+
 this repo will assist you to install and configure *o r a c l e instant client and oci8 extension for php for those running on laragon on windows. feel free to PR for new feature.
 
 
